@@ -1,2 +1,2 @@
 # ReadabilityScore
-Readability Score project from hSkill
+Readability Score project from HyperSkill
